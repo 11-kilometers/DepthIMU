@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"FD4","Fiducial_0.5mm_Mask1mm","Fiducial_0.5mm_Mask1mm",2.500000,7.000000,180.000000,bottom
+"FD5","Fiducial_0.5mm_Mask1mm","Fiducial_0.5mm_Mask1mm",27.500000,7.000000,180.000000,bottom
+"FD6","Fiducial_0.5mm_Mask1mm","Fiducial_0.5mm_Mask1mm",27.500000,47.500000,180.000000,bottom
+"U2","Series 7LD","PA-7LD",15.000000,8.000000,180.000000,bottom
