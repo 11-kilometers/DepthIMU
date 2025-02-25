@@ -1,0 +1,10 @@
+### Footprint positions - created on 2024-10-08T11:35:32-0500 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                     Package                      PosX       PosY       Rot  Side
+FD4       Fiducial_0.5mm_Mask1mm  Fiducial_0.5mm_Mask1mm     2.5000     7.0000  180.0000  bottom
+FD5       Fiducial_0.5mm_Mask1mm  Fiducial_0.5mm_Mask1mm    27.5000     7.0000  180.0000  bottom
+FD6       Fiducial_0.5mm_Mask1mm  Fiducial_0.5mm_Mask1mm    27.5000    47.5000  180.0000  bottom
+U2        Series_7LD              PA-7LD                    15.0000     8.0000  180.0000  bottom
+## End
